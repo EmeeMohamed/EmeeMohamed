@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Eiman</h1>
-<h3 align="center">A passionate data analyst</h3>
+# Hi, I'm Eiman 👋
 
-- 🔭 I’m currently working on [data analysis projects](https://app.datacamp.com/workspace/dashboard)
+Computer Science master's student at JKU Linz (graduating January 2027), focused on **LLM and GenAI engineering**. I combine hands-on work with large language models with four years of experience as a requirements engineer, so I build AI features around real user needs.
 
-- 🌱 I’m currently learning **PostgreSQL**
+### 🔨 Featured project
 
-- 👯 I’m looking to collaborate on **data analyst**
+**[AI Job Evaluator](https://github.com/EmeeMohamed/ai-job-evaluator)**: evaluates job ads against a candidate profile with the Claude API. The LLM labels each requirement and Python computes a deterministic, traceable score. Includes batch evaluation with structured JSON output and a tool-using assistant with input validation.
 
-- 🤝 I’m looking for help with **data analysis**
+### 🧠 LLM experience
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/eimanmohamed/](https://www.linkedin.com/in/eimanmohamed/)
+- **Master's thesis:** assessing and improving software requirements with GPT-4 and Llama 3.2-Vision
+- **Pro2Future:** Java backend of an LLM pipeline, integrating context into prompts and evaluating outputs against a baseline
+- **Multi-stage LLM workflow** that generates personas, case studies and requirements
 
-- 💬 Ask me about **core python, pandas, numpy, juptyr notebook**
+### 🌱 Currently learning
 
-- 📫 How to reach me **eiman.swe@gmail.com**
+RAG, vector databases and AI agents with the Claude API
 
-- ⚡ Fun fact **I think I am funny**
+### 🛠 Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eimanmohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eimanmohamed" height="30" width="40" /></a>
-<a href="https://kaggle.com/emeemohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emeemohamed" height="30" width="40" /></a>
-</p>
+Python · Java · SQL · Pandas · scikit-learn · Claude API · Git · PostgreSQL · Power BI
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 📫 Connect
 
+[LinkedIn](https://linkedin.com/in/eimanmohamed) · [Kaggle](https://kaggle.com/emeemohamed)
